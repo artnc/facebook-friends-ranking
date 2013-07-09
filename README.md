@@ -1,5 +1,5 @@
-Facebook Friends Rankings
-=========================
+Facebook Friends Ranking
+========================
 
 Identify your closest friends according to Facebook. Specifically, these are the people whose names Facebook thinks are most likely to be typed into the search box.
 
